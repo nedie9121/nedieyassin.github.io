@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Toyota fielder BK046292",
+    "description": "white fielder @ 2300USD",
+    "date": "08-06-2021",
+    "transactions": [
+      {
+        "name": "First payment",
+        "date": "08-06-2021",
+        "type": "debt",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1478000",
+        "description": "Original invoice is 2300USD but i have paid 1800USD as first payment plus mtonyo for invoice which is coming to 1478000 kwacha"
+      }
+    ]
+  },
+  {
+    "name": "Isuzu truck for steven",
+    "description": "Isuzu truck BH829432. invoice 4700USD,Late K791. Bank charges K63,258. Mtonyo k25,000. Total k3,805,958. balance = no balance",
+    "date": "25-03-2021",
+    "transactions": [
+      {
+        "name": "First payment",
+        "date": "25-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "3805958",
+        "description": "Paid 4,700USD.Late k791. Bank charges k63,258. Mtonyo k25,000. Total k3,805,958"
+      }
+    ]
+  },
+  {
+    "name": "2011 Toyota Axio BH758340",
+    "description": "i have payed for axio real price is 2,700USD but the invoice is at 200USD",
+    "date": "25-03-2021",
+    "transactions": [
+      {
+        "name": "Sold",
+        "date": "03-06-2021",
+        "type": "credit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "5350000",
+        "description": "i have sold at 5400000, i payed 50000, ntonyo 20000 yapamalo"
+      },
+      {
+        "name": "Query",
+        "date": "28-05-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "150000",
+        "description": "i payed extra money on duty"
+      },
+      {
+        "name": "Yokatengera",
+        "date": "28-05-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "500000",
+        "description": "i spent 500000 to collect the car form dar es saleem"
+      },
+      {
+        "name": "Duty",
+        "date": "28-05-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1666000",
+        "description": "i have payed duty at 1666000"
+      },
+      {
+        "name": "balance of 700USD",
+        "date": "29-04-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "574000",
+        "description": "i have payed the balance of 700USD at the rate of 793MWK plus bank charges of  1800MWK"
+      },
+      {
+        "name": "First payment",
+        "date": "25-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1653000",
+        "description": "i have payed 2000USD at t a rate  of 791MWK plus bank charges of 15078MWK plus Mtonyo of  invoice of 20000MWK. which is coming to the total of 1,653000 living the balance of 700USD"
+      }
+    ]
+  },
+  {
+    "name": "Toyota Ractis 2010",
+    "description": "am buying toyota ractis at the price of 2050USD but the  invioce will be at 1600USD",
+    "date": "10-03-2021",
+    "transactions": [
+      {
+        "name": "Sold",
+        "date": "11-06-2021",
+        "type": "credit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "4200000",
+        "description": "i have sold it at 4300000MWK only but took out 100000 for Mtonyo"
+      },
+      {
+        "name": "Duty",
+        "date": "08-05-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1368000",
+        "description": "ndalipila duty 1368000"
+      },
+      {
+        "name": "Yokatengera",
+        "date": "08-05-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "500000",
+        "description": "ndatenga  500000 pokatenga ractis "
+      },
+      {
+        "name": "Balance payment",
+        "date": "20-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "363150",
+        "description": "i have payed the balance of 450USD at the rate of 787MWK plus bank charges of 9000MWK"
+      },
+      {
+        "name": "First payment (1600USD)",
+        "date": "10-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1324858",
+        "description": "i have payed the first payment  which is 1600USD at the rate of 791MWK plus bank charges of 44257MWK plus Mtonyo of invoice 15000MWK which is adding up to 1324858MWK, i have  left the balance 450USD"
+      }
+    ]
+  },
+  {
+    "name": "Nissan Tilda latio",
+    "description": "buying nissan tilda a t 1500USD but the invoice will be at 1300USD",
+    "date": "10-03-2021",
+    "transactions": [
+      {
+        "name": "Sold",
+        "date": "08-06-2021",
+        "type": "credit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "3450000",
+        "description": "i have sold nissan tilda at 3 450 000"
+      },
+      {
+        "name": "Yokatengera",
+        "date": "29-05-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "500000",
+        "description": "i spent MKW500,000 to collect the car from dar es salaam"
+      },
+      {
+        "name": "Duty",
+        "date": "29-05-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1133000",
+        "description": "i payed duty at MWK1133000"
+      },
+      {
+        "name": "Balance payment",
+        "date": "20-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "205750",
+        "description": "i have paid the balance of 250USD at the rate of 787 plus MWK9000 bank charges which is coming to MWK205750"
+      },
+      {
+        "name": "First payment",
+        "date": "10-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1087558",
+        "description": "i have paid 1300USD at the rate of 791 plus bank charges of MWK44257 plus mtonyo for invoice which is MWK15000 all together  is coming up to MWK1087558, but i have left with the balance of 250USD to pay"
+      }
+    ]
+  },
+  {
+    "name": "Mazda bongo bus",
+    "description": "i made th e first transaction today at mybucks account, the car is going at 1950USD, i have paid 1750USD(MWK1,382,000 at the rate of 775 plus bank charges) leaving the balance of 200USD (MWK155000 at the rate of 771 of FDH) that will be paid soon",
+    "date": "29-12-2020",
+    "transactions": [
+      {
+        "name": "Sold",
+        "date": "06-03-2021",
+        "type": "credit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "4100000",
+        "description": "bongo is sold at MWK4,200,000 but MWk100,000 was given to anyamata"
+      },
+      {
+        "name": "Duty",
+        "date": "06-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1302000",
+        "description": "paid duty for bongo"
+      },
+      {
+        "name": "Transport",
+        "date": "06-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "70000",
+        "description": "transport yokatengera ku dar es salaam "
+      },
+      {
+        "name": "Ndalama yokatengera",
+        "date": "14-02-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "432500",
+        "description": "i have bought USD mounting to 500USD ready to go n collect my bongo bus whats left at is transport to dar es salaam"
+      },
+      {
+        "name": "balance",
+        "date": "14-02-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "195000",
+        "description": "i have paid the balance of the invoice 200USD at the rate of 775 which is MWK155000 plus mtonyo wa blessing MWK40000 making it to be MWK195000 "
+      },
+      {
+        "name": "First payment",
+        "date": "29-12-2020",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1382000",
+        "description": "from the actual price of 1950USD i paid 1750USD (1382000) the balance will be paid soon"
+      }
+    ]
+  },
+  {
+    "name": "Toyota vits 2013",
+    "description": "i have made the first transaction of toyota vits, the car is going at 2550USD, i paid 1800USD (1420000 at the rate of 775 plus bank charges of MWK25000) leaving the balance of 750USD(579000 at the rate of 771 of FDH) that will be paid ",
+    "date": "29-12-2020",
+    "transactions": [
+      {
+        "name": "Sold",
+        "date": "06-03-2021",
+        "type": "credit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "4100000",
+        "description": "vits sold at MWK4370000 but anyamata was given MWK270000 i was left with MWK4100000"
+      },
+      {
+        "name": "Duty",
+        "date": "06-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "782000",
+        "description": "dty for vits"
+      },
+      {
+        "name": "Transport yokatengera",
+        "date": "06-03-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "70000",
+        "description": "dty for vits"
+      },
+      {
+        "name": "Ndalama yokatengera",
+        "date": "14-02-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "432500",
+        "description": "i have bought the USD amounting to 500USD at the rate of MWK865 ready to go and collect my vits whats left is transport"
+      },
+      {
+        "name": "Balance",
+        "date": "14-02-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "622000",
+        "description": "i have paid the balance of invoice 750USD at the rate of  775 plus ntonyo for blessing which is giving me total of MWK622000"
+      },
+      {
+        "name": "First payment",
+        "date": "29-12-2020",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1420000",
+        "description": "The actual price is 2550USD , i paid 1800USD (MWK1,420,000) leaving the balance of 750USD"
+      }
+    ]
+  },
+  {
+    "name": "Banking",
+    "description": "i have banked MWK3,200,000 for freed silver and i have saved MWK3,346,000 for probox",
+    "date": "23-12-2020",
+    "transactions": [
+      {
+        "name": "Balance for bus bongo and vits",
+        "date": "13-01-2021",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "780000",
+        "description": " i withdrawn MWK780,000 to pay the balances of vits 750USD at the rate of 775 and to pay the balance of bus bongo 200USD at the same rate plus ntonyo for bule"
+      },
+      {
+        "name": "Depositing  back the money meant for bongo and vits",
+        "date": "29-12-2020",
+        "type": "credit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "2800000",
+        "description": "i deposited back the MWK2,500,000 i withdrawn earlier plus MWK300,000 i took from the money withdrawn last week that was meant for sienta and the remainig MWk140,000 i rent it to blessings Chinsalazo he promised to give it back before coming weekend MWK40,000 i paid to blessings haules for invoice fot bongo and vits  "
+      },
+      {
+        "name": "payment that was meant to take place at FDH",
+        "date": "29-12-2020",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "2500000",
+        "description": "i was supposed to pay for bongo bus and vits at FDH to beforward japan but due to lack of forex i had to go and deposit back  to mybucks account  to pay beforward through my account "
+      },
+      {
+        "name": "Sienta 2012",
+        "date": "24-12-2020",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1740000",
+        "description": "i have withdrawn the money ready to pay for sienta on tuesday 28 december 2020, if it fails i will deposit it back"
+      },
+      {
+        "name": "School needs for sherifa",
+        "date": "23-12-2020",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "100000",
+        "description": "i have bought torch, dictionary, Exercise books and writing materials, textbooks, Sheets, School shoes, and other things"
+      },
+      {
+        "name": "Ibra phaso",
+        "date": "23-12-2020",
+        "type": "debit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "1000000",
+        "description": "i have given ibra phaso MWK1,000,000 kwacha he will pay me back MWK1,200,000 0n 20th january 20201"
+      },
+      {
+        "name": "probox silver 2012",
+        "date": "23-12-2020",
+        "type": "credit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "3346000",
+        "description": "after selling probox i managed to save MWK3,346,000"
+      },
+      {
+        "name": "From freed silver",
+        "date": "23-12-2020",
+        "type": "credit",
+        "mode": "cash",
+        "provider": "",
+        "ref": "",
+        "amount": "3200000",
+        "description": "after selling freed silver i managed to save MWK3,346,000"
+      }
+    ]
+  }
+]
